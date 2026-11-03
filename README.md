@@ -14,7 +14,7 @@ The main CPU will print the instantaneous frequency on the UART console. So that
 
 [View this README on GitHub.](https://github.com/Infineon/mtb-example-ce241356-adc-hw3p3z-dac-data-flow)
 
-[Provide feedback on this code example.](https://yourvoice.infineon.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyNDEzNTYiLCJTcGVjIE51bWJlciI6IjAwMi00MTM1NiIsIkRvYyBUaXRsZSI6IlBTT0MmdHJhZGU7IENvbnRyb2wgQzNNL1A4OiBBREMtSFdGaWx0ZXItREFDIGRhdGFmbG93IiwicmlkIjoic29vcmFqLmtvb3poYW1wYXJhbWJpbHN1YnJhbWFuaWFuQGluZmluZW9uLmNvbSIsIkRvYyB2ZXJzaW9uIjoiMS4wLjAiLCJEb2MgTGFuZ3VhZ2UiOiJFbmdsaXNoIiwiRG9jIERpdmlzaW9uIjoiTUNEIiwiRG9jIEJVIjoiSUNXIiwiRG9jIEZhbWlseSI6IlBTT0MifQ==)
+[Provide feedback on this code example.](https://yourvoice.infineon.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyNDEzNTYiLCJTcGVjIE51bWJlciI6IjAwMi00MTM1NiIsIkRvYyBUaXRsZSI6IlBTT0MmdHJhZGU7IENvbnRyb2wgQzNNL1A4OiBBREMtSFdGaWx0ZXItREFDIGRhdGFmbG93IiwicmlkIjoic29vcmFqLmtvb3poYW1wYXJhbWJpbHN1YnJhbWFuaWFuQGluZmluZW9uLmNvbSIsIkRvYyB2ZXJzaW9uIjoiMS4wLjEiLCJEb2MgTGFuZ3VhZ2UiOiJFbmdsaXNoIiwiRG9jIERpdmlzaW9uIjoiTUNEIiwiRG9jIEJVIjoiSUNXIiwiRG9jIEZhbWlseSI6IlBTT0MifQ==)
 
 ## Requirements
 
@@ -50,7 +50,7 @@ See the [ModusToolbox&trade; tools package installation guide](https://www.infin
 
 Install a terminal emulator if you do not have one. Instructions in this document use [Tera Term](https://teratermproject.github.io/index-en.html).
 
-This example requires no additional software or tools.
+Install the ModusToolbox&trade; Power Suite v1.1.0 or later to access the Power Suite Filter Coefficient Tool.
 
 
 ## Using the code example
@@ -289,6 +289,7 @@ Document title: *CE241356* – *PSOC&trade; Control C3M/P8: ADC-HWFilter-DAC dat
  Version | Description of change
  ------- | ---------------------
  1.0.0   | New code example
+ 1.0.1   | Added the ModusToolbox&trade; Power Suite requirement for the Power Suite Filter Coefficient Tool
 <br>
 
 
